@@ -1,5 +1,8 @@
-# neog-mark-01
-Mark-01 for levelzero
-"DO YOU KNOW ME?" QUIZ
-This is a CLI app on "Do you Know Me?" quiz where you can answer some of the questions related to me.
-Just click the link given in the description of repository and then click on run and enjoy the game!!
+# Quiz on "How Well Do you Know Me"
+
+
+1.This is a simple quiz about me  where you can answer some questions related to me
+
+2.You will be awarded with 1 point if you answer the questions correctly.
+
+3.To play the game go to the URL section and you will be redirected to repl and then you can start playing by clicking on Run.
